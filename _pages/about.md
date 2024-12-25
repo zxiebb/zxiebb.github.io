@@ -9,12 +9,12 @@ redirect_from:
 Hi! I am a second-year undergraduate student majoring in Computer Science & Biochemistry and Cell Biology in The Hong Kong University of Science and Technology (HKUST). ]
 
 Education
-======
+------
 BSc in Computer Science & Biochemistry and Cell Biology, The Hong Kong University of Science and Technology, 2027 (Expected)
 
 Research Experience
-======
-* Summer 2024 ~ Now: Undergraduate Research Opportunities
+------
+* Undergraduate Research Opportunities(UROP) : Summer 2024 ~ Now
   * Supervised by Prof. Jiguang Wang @ HKUST (Division of Life Science & Department of Chemical and Biological Engineering)
 
 Academics
@@ -29,4 +29,4 @@ Scholarship and Awards
 
 Academic Activities
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ * Elected Member of the University Senate : December 2024 ~ Now

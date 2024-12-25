@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+About me
+Hi! I am a senior undergraduate student majoring in Computer Science & Mathematics in The Hong Kong University of Science and Technology (HKUST). My research interest lies in building mathematical theory to understand and explain behaviors of modern deep learning algorithms and LLM. Empirically I am also interested in understanding LLM’s behavior in a simplified setup via mechanistic interpretability methods. I believe these two approaches are crucial to open the black box of deep learning architecture.
 
 A data-driven personal website
 ======

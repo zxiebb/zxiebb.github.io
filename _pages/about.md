@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a second-year undergraduate student majoring in Computer Science & Biochemistry and Cell Biology in The Hong Kong University of Science and Technology (HKUST). ]
+I am a second-year undergraduate student majoring in Computer Science & Biochemistry and Cell Biology in The Hong Kong University of Science and Technology (HKUST). 
 
 Education
 ------
@@ -19,8 +19,8 @@ Research Experience
 
 Academics
 ------
-*Cumulative GPA: ***/4.3, Rank: ***
-*Selected Undergraduate Courses: COMP 2211 Exploring Artifical Intelligence (A+), LIFS 2040 Cell Biology (A)
+* Cumulative GPA: ***/4.3, Rank: ***
+* Selected Undergraduate Courses: COMP 2211 Exploring Artifical Intelligence (A+), LIFS 2040 Cell Biology (A)
 
 Scholarship and Awards
 ------

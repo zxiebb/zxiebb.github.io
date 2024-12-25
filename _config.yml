@@ -22,7 +22,7 @@ repository               : "zxiebb.github.io"
 author:
   # Biographic information
   #avatar           : "profile.png"
-  name             : "Zequan XIE" 
+  #name             : "Zequan XIE" 
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
@@ -33,7 +33,7 @@ author:
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
 
   # Repositories and software development
-  github           : 
+  github           : https://github.com/zxiebb
   linkedin         : 
 
 
